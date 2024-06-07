@@ -1,0 +1,1 @@
+# babel-plugin-mf-remote-module
